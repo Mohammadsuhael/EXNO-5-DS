@@ -250,4 +250,5 @@ plt.legend()
 
 
 # Result:
- Include your result here
+Thus the program is executed successfully.
+
